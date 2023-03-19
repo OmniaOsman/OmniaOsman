@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OmniaOsman
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python 🐍
 - 🌱 I’m currently learning Back-End, Django 
 - 📫 How to reach me: omniaosman4@gmail.com
 
