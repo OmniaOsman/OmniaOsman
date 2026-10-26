@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OmniaOsman
+- 👋 Hi, I’m OmniaOsman
 - 👀 I’m interested in Python 🐍
 - 🌱 Backend Developer (Django | NestJs)
 - 📫 How to reach me: omniaosman4@gmail.com
